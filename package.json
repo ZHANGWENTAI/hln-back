@@ -19,6 +19,8 @@
   "dependencies": {
     "fabric-ca-client": "^2.2.5",
     "fabric-common": "^2.2.5",
-    "fabric-network": "^2.2.5"
+    "fabric-network": "^2.2.5",
+    "jsrsasign": "^10.1.13",
+    "winston": "^3.3.3"
   }
 }
